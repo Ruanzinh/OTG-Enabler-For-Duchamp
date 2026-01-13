@@ -56,7 +56,7 @@ Just execute the script as root.
 
 ## Special Thanks
 
-**Luxured**
+**Luxured** (https://github.com/snapboss)
 
 Huge thanks to Luxured for giving me the first crucial command that made this entire workaround possible — the OTG enable sysfs write. That single command was the turning point that allowed this script to exist and function.
 
